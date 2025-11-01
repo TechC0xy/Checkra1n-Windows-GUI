@@ -30,7 +30,7 @@ For webra1n (css + html to come soon) cd to the folder and type `python index.py
 # Installation:
 ```
 git clone https://github.com/TechC0xy/Checkra1n-Windows-GUI
-cd Checkra1n.py
+cd Checkra1n-Windows-GUI
 python main.py
 ```
 
